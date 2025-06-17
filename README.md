@@ -2,6 +2,7 @@
 
 A full-featured social media platform built with Spring Boot, Hibernate, and PostgreSQL.
 
+
 ## Features
 
 - **User Authentication**: Secure sign-up and login using JWT tokens
